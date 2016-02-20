@@ -13,5 +13,5 @@ public:
 	ejemplo();
 	virtual ~ejemplo();
 };
-
+//
 #endif /* CR_AC_ITCR_LOGICA_EJEMPLO_H_ */
